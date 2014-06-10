@@ -4,7 +4,7 @@
       "Alex Balhatchet <alex@lokku.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.016, CPAN::Meta::Converter version 2.140640",
+   "generated_by" : "Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.140640",
    "license" : [
       "perl_5"
    ],
@@ -30,6 +30,7 @@
             "Carp" : "1.26",
             "HTTP::Tiny" : "0.028",
             "JSON" : "2.53",
+            "List::MoreUtils" : "0.33",
             "URI" : "1.60",
             "perl" : "5.008"
          }
@@ -49,6 +50,6 @@
          "web" : "http://github.com/lokku/perl-Geo-Coder-OpenCage"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
 
