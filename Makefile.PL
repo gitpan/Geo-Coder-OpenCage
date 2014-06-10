@@ -24,13 +24,14 @@ my %WriteMakefileArgs = (
     "HTTP::Tiny" => "0.028",
     "JSON" => "2.53",
     "List::MoreUtils" => "0.33",
+    "Pod::Perldoc" => "3.21",
     "URI" => "1.60"
   },
   "TEST_REQUIRES" => {
     "Test::Exception" => "0.32",
     "Test::More" => "0.92"
   },
-  "VERSION" => "0.03",
+  "VERSION" => "0.04",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -42,6 +43,7 @@ my %FallbackPrereqs = (
   "HTTP::Tiny" => "0.028",
   "JSON" => "2.53",
   "List::MoreUtils" => "0.33",
+  "Pod::Perldoc" => "3.21",
   "Test::Exception" => "0.32",
   "Test::More" => "0.92",
   "URI" => "1.60"

@@ -31,6 +31,7 @@
             "HTTP::Tiny" : "0.028",
             "JSON" : "2.53",
             "List::MoreUtils" : "0.33",
+            "Pod::Perldoc" : "3.21",
             "URI" : "1.60",
             "perl" : "5.008"
          }
@@ -50,6 +51,6 @@
          "web" : "http://github.com/lokku/perl-Geo-Coder-OpenCage"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }
 

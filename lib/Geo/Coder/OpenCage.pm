@@ -1,5 +1,5 @@
 package Geo::Coder::OpenCage;
-$Geo::Coder::OpenCage::VERSION = '0.03';
+$Geo::Coder::OpenCage::VERSION = '0.04';
 use strict;
 use warnings;
 
@@ -76,7 +76,7 @@ Geo::Coder::OpenCage - Geocode addresses with the OpenCage Geocoder API
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 DESCRIPTION
 
