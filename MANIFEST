@@ -12,5 +12,6 @@ lib/Geo/Coder/OpenCage.pm
 t/00-compile.t
 t/01-new.t
 t/02-geocode.t
+t/03-reverse-geocode.t
 t/release-cpan-changes.t
 t/release-pod-syntax.t
